@@ -1,0 +1,13 @@
+{
+  "aws_region": "us-east-1",
+  "aws_az": "us-east-1d",
+  "aws_elasticsearch_ami": "ami-78be996e",
+
+  "azure_client_id": "",
+  "azure_client_secret": "",
+  "azure_resource_group_name": "",
+  "azure_storage_account": "",
+  "azure_subscription_id": "",
+  "azure_tenant_id": "",
+  "azure_location": "East US"
+}
