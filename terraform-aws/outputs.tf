@@ -1,3 +1,3 @@
 output "clients_dns" {
-  value = "noladblancer"
+  value = "noloadblancer"
 }
